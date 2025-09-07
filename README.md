@@ -24,3 +24,12 @@ This project provides basic features for managing customers and service requests
    - Import `crm.sql` file  
 4. Start Apache & MySQL from XAMPP.  
 5. Open browser and go to:  
+
+http://localhost/crm-system/
+
+
+
+
+## 📧 Author
+Developed by **Akshata Chunamari**  
+🔗 [GitHub Profile](https://github.com/Akshatarameshchunamari)
